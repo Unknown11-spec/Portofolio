@@ -1,5 +1,15 @@
 .jumbotron
 {
-    padding: 2rem 1rem;
-    background-color: #9EC5FE;
+    padding-top: 7rem;
+    background-color: #CFE2FF;
+}
+
+#Project
+{
+    background-color: #CFE2FF;
+}
+
+footer
+{
+    background-color: #64a0fa;
 }
